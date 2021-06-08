@@ -1,0 +1,48 @@
+
+<!DOCTYPE HTML>
+
+<HTML>
+
+<HEAD>
+		<TITLE></TITLE>
+		<link rel="stylesheet" href="style.css" type="text/css" />
+		<link rel="shortcut icon" href="adhyyan.ico">
+</HEAD>
+
+<BODY>
+		<div id="header">
+			<div id="logo"><a href="../Home Page.html"><img src="logo.jpg" width="200px"></a></div>
+				<div id="nav">
+				  <ul>
+					<li><a href="../Home Page.html">Home</a>
+					<li><a href="About.html">About</a>
+					<li><a href="Registration.html">Regisration</a>
+					<li><a href="Career Guidance Cell.html">Career Guidance Cell</a>
+					<li><a href="Advanced Learners Program.html">Advanced Learners' Program</a>
+					<li><a href="Curriculum.html">Curriculum</a>
+				  </ul>
+				  <br>
+				  <ul>
+					<li><a href="Principal Messege.html">Principal Message</a>
+					<li><a href="Community Outreach.html">Community Outreach</a>
+					<li><a href="Methodology And Learning Styles.html">Methodology And Learning Styles</a>
+					<li><a href="Mission And Vision.html">Mission And Vision</a>
+				  </ul>
+			</div>
+		</div>
+
+		<div id="cj">
+		<marquee direction="left" scrollamount="15" behavior="alternate">The Adhyyan School</marquee>
+		</div>
+		
+		<div id="campus">
+			<img src="Campus.PNG" align="right">
+		</div>
+		
+		<div id="wrapper">
+		</div>
+		
+		<div id="footer"><br>&copy; 2018 The Adhyyan School. All rights reserved.<div>
+</BODY>
+
+</HTML>

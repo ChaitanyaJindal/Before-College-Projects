@@ -1,0 +1,177 @@
+
+#header {
+width: 100%;
+height: 100px;
+background: #ADFF2F;
+text-align: center;
+}
+
+#wrapper {
+width: 700px;
+height: auto;
+margin: auto;
+}
+
+#main {
+height: 350px;
+}
+
+#footer {
+height: 40px;
+text-align: center;
+font-size: 14px;
+border-top: 1px solid gray;
+}
+
+#wrapper #main img {
+width: 700px;
+height: 300px;
+border-top: 1px solid gray;
+}
+
+#header #nav {
+margin-top: -85px;
+margin-left: 300px;
+margin-right: 20px;
+text-align: right;
+}
+
+#header #nav ul li {
+list-style-type: none;
+display: inline;
+margin-left: 10px;
+padding: 2px 2px 2px 1px;
+background-color: #9ACD32;
+font-size: 18px;
+}
+
+#header #nav a {
+text-decoration: none;
+color: black;
+}
+
+#header #nav ul li :hover {
+color: white;
+text-decoration: overline;
+}
+
+#header #nav a:active {
+color: black;
+}
+
+#header #nav a:visited {
+color: black;
+}
+
+#header #logo img {
+margin-top: 20px;
+margin-left: -1100px;
+}
+
+#wrapper #table1 {
+width: 700px;
+height: 250px;
+table-layout: fixed;
+margin-bottom: 50px;
+}
+
+#wrapper #table1 td {
+background: #ADFF2F;
+font-size: 14px;
+padding: 5px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px #000;
+}
+
+#wrapper #table1 td h3 {
+text-align: center;
+font-size: 30px;
+text-decoration: underline;
+}
+
+#prespective {
+margin-bottom: 30px;
+margin-top: -30px;
+}
+
+#cj {
+background: #ADFF2F;
+font-family:garamond,serif;
+font-size: 2.2em;
+font-style: italic;
+font-weight: bold;
+font-variant: small-caps;
+text-align: justify;
+}
+
+#prespective h2 {
+text-align: center;
+text-decoration: underline;
+color: green;
+}
+
+#prespective ul li {
+list-style-type: none;
+font-size: 18px;
+font-align: right;
+color: green;
+}
+
+#download a {
+text-decoration: none;
+color: green;
+}
+
+#download ul li {
+list-style-type: none;
+}
+
+#campus img{
+align: right;
+margin-top: 100px;
+}
+
+#main-about p b:hover {
+color: green;
+text-decoration: line-through;
+}
+
+#main-about h2 {
+text-align: center;
+}
+
+#main-about h2:hover {
+text-decoration: overline;
+color: green;
+}
+
+#table2 {
+margin-top: -35px;
+margin-left: 70px;
+}
+
+#principal img  {
+height: 200px;
+margin-top: 40px;
+}
+
+#career img  {
+height: 180px;
+margin-top: 40px;
+}
+
+#curriculum img  {
+margin-top: 40px;
+}
+
+#mission img  {
+margin-top: 15px;
+margin-left: 10px;
+}
+
+#table1 td {
+font-size: 14px;
+padding: 5px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px #000;
+}
